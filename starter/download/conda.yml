@@ -1,0 +1,9 @@
+name: download_data
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - requests=2.28.2
+  - pip=23.0
+  - pip:
+      - wandb==0.13.10
