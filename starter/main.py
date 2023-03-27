@@ -39,7 +39,7 @@ def go(config: DictConfig):
     if "preprocess" in steps_to_execute:
         ## YOUR CODE HERE: call the preprocess step
         _ = mlflow.run(
-            os.path.join(root_path, "preprocessing"),
+            os.path.join(root_path, "preprocess"),
             "main",
             parameters={
                 "input_artifact":"raw_data.parquet:latest",
