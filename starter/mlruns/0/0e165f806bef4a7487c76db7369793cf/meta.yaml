@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tajmohammad/Documents/02_Machine%20Learning%20Courses/05_Machine%20Learning%20DevOps%20Engineer%20%7C%20Nanodegree%20Program/02_Building%20a%20Reproducible%20Model%20Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification/starter/mlruns/0/0e165f806bef4a7487c76db7369793cf/artifacts
+end_time: 1679953101391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e165f806bef4a7487c76db7369793cf
+run_name: amusing-frog-482
+run_uuid: 0e165f806bef4a7487c76db7369793cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679953082077
+status: 3
+tags: []
+user_id: tajmohammad
