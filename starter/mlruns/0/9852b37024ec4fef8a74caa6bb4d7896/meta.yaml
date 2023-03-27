@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tajmohammad/Documents/02_Machine%20Learning%20Courses/05_Machine%20Learning%20DevOps%20Engineer%20%7C%20Nanodegree%20Program/02_Building%20a%20Reproducible%20Model%20Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification/starter/mlruns/0/9852b37024ec4fef8a74caa6bb4d7896/artifacts
+end_time: 1679955044668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9852b37024ec4fef8a74caa6bb4d7896
+run_name: merciful-elk-78
+run_uuid: 9852b37024ec4fef8a74caa6bb4d7896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679955016911
+status: 3
+tags: []
+user_id: tajmohammad

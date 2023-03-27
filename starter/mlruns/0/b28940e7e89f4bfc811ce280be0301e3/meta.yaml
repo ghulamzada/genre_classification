@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tajmohammad/Documents/02_Machine%20Learning%20Courses/05_Machine%20Learning%20DevOps%20Engineer%20%7C%20Nanodegree%20Program/02_Building%20a%20Reproducible%20Model%20Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification/starter/mlruns/0/b28940e7e89f4bfc811ce280be0301e3/artifacts
+end_time: 1679954895653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b28940e7e89f4bfc811ce280be0301e3
+run_name: unique-fox-953
+run_uuid: b28940e7e89f4bfc811ce280be0301e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679954876259
+status: 3
+tags: []
+user_id: tajmohammad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tajmohammad/Documents/02_Machine%20Learning%20Courses/05_Machine%20Learning%20DevOps%20Engineer%20%7C%20Nanodegree%20Program/02_Building%20a%20Reproducible%20Model%20Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification/starter/mlruns/0/2bbb56de3f574ac59422093a591b25cc/artifacts
+end_time: 1679955603281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bbb56de3f574ac59422093a591b25cc
+run_name: bemused-cat-325
+run_uuid: 2bbb56de3f574ac59422093a591b25cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679955557365
+status: 3
+tags: []
+user_id: tajmohammad

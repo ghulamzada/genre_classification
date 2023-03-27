@@ -1,0 +1,55 @@
+{
+    "os": "macOS-13.2.1-x86_64-i386-64bit",
+    "python": "3.11.0",
+    "heartbeatAt": "2023-03-27T22:08:02.257253",
+    "startedAt": "2023-03-27T22:08:01.412202",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "preprocessed_data.csv:latest",
+        "--artifact_root",
+        "data",
+        "--artifact_type",
+        "segregated_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/Users/tajmohammad/Documents/02_Machine Learning Courses/05_Machine Learning DevOps Engineer | Nanodegree Program/02_Building a Reproducible Model Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification/starter/segregate/run.py",
+    "codePath": "starter/segregate/run.py",
+    "git": {
+        "remote": "https://github.com/ghulamzada/genre_classification.git",
+        "commit": "82aac1fbd1338584d1eb969f309eeaec925902c2"
+    },
+    "email": "tajmohammad20@gmail.com",
+    "root": "/Users/tajmohammad/Documents/02_Machine Learning Courses/05_Machine Learning DevOps Engineer | Nanodegree Program/02_Building a Reproducible Model Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification",
+    "host": "Tajs-Macbook-Pro.fritz.box",
+    "username": "tajmohammad",
+    "executable": "/Users/tajmohammad/opt/anaconda3/envs/mlflow-08b8152a8156d6aec381091a0781e3a799ca9845/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 6,
+    "cpu_freq": {
+        "current": 2600,
+        "min": 2600,
+        "max": 2600
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2600,
+            "min": 2600,
+            "max": 2600
+        }
+    ],
+    "disk": {
+        "total": 465.62699127197266,
+        "used": 8.327884674072266
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

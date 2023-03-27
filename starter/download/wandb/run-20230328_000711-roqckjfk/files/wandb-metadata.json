@@ -1,0 +1,51 @@
+{
+    "os": "macOS-13.2.1-x86_64-i386-64bit",
+    "python": "3.11.0",
+    "heartbeatAt": "2023-03-27T22:07:12.165261",
+    "startedAt": "2023-03-27T22:07:11.297615",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/Users/tajmohammad/Documents/02_Machine Learning Courses/05_Machine Learning DevOps Engineer | Nanodegree Program/02_Building a Reproducible Model Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification/starter/download/download_data.py",
+    "codePath": "starter/download/download_data.py",
+    "git": {
+        "remote": "https://github.com/ghulamzada/genre_classification.git",
+        "commit": "82aac1fbd1338584d1eb969f309eeaec925902c2"
+    },
+    "email": "tajmohammad20@gmail.com",
+    "root": "/Users/tajmohammad/Documents/02_Machine Learning Courses/05_Machine Learning DevOps Engineer | Nanodegree Program/02_Building a Reproducible Model Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification",
+    "host": "Tajs-Macbook-Pro.fritz.box",
+    "username": "tajmohammad",
+    "executable": "/Users/tajmohammad/opt/anaconda3/envs/mlflow-f903285ba8d7998f51133addc8bc7719aaf23a0b/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 6,
+    "cpu_freq": {
+        "current": 2600,
+        "min": 2600,
+        "max": 2600
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2600,
+            "min": 2600,
+            "max": 2600
+        }
+    ],
+    "disk": {
+        "total": 465.62699127197266,
+        "used": 8.327884674072266
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

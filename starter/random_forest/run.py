@@ -73,7 +73,7 @@ def go(args):
 
     fig_cm, sub_cm = plt.subplots(figsize=(10, 10))
     ConfusionMatrixDisplay(
-        confusion_matrix=confusion_matrix(y_test, pipe.predict(X_test)),
+        confusion_matrix=confusion_matrix(y_val, pipe.predict(X_val)),
         display_labels=pipe.classes_).plot(ax=sub_cm)
     
     fig_cm.tight_layout()

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tajmohammad/Documents/02_Machine%20Learning%20Courses/05_Machine%20Learning%20DevOps%20Engineer%20%7C%20Nanodegree%20Program/02_Building%20a%20Reproducible%20Model%20Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification/starter/mlruns/0/bebf83afd50c4233bd66ca819f61de36/artifacts
+end_time: 1679954431771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bebf83afd50c4233bd66ca819f61de36
+run_name: mysterious-robin-891
+run_uuid: bebf83afd50c4233bd66ca819f61de36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679954413792
+status: 3
+tags: []
+user_id: tajmohammad

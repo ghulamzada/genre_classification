@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tajmohammad/Documents/02_Machine%20Learning%20Courses/05_Machine%20Learning%20DevOps%20Engineer%20%7C%20Nanodegree%20Program/02_Building%20a%20Reproducible%20Model%20Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification/starter/mlruns/0/b97d02d742e84fd992d54e7cfa92de77/artifacts
+end_time: 1679955377691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b97d02d742e84fd992d54e7cfa92de77
+run_name: salty-ray-287
+run_uuid: b97d02d742e84fd992d54e7cfa92de77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679955097952
+status: 4
+tags: []
+user_id: tajmohammad

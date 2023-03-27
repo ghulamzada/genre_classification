@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tajmohammad/Documents/02_Machine%20Learning%20Courses/05_Machine%20Learning%20DevOps%20Engineer%20%7C%20Nanodegree%20Program/02_Building%20a%20Reproducible%20Model%20Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification/starter/mlruns/0/385363e5e56d4000b7f3b7d27f8c8d37/artifacts
+end_time: 1679955533415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 385363e5e56d4000b7f3b7d27f8c8d37
+run_name: spiffy-yak-63
+run_uuid: 385363e5e56d4000b7f3b7d27f8c8d37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679955512088
+status: 3
+tags: []
+user_id: tajmohammad
