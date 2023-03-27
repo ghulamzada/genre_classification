@@ -75,7 +75,7 @@ def go(config: DictConfig):
                 "stratify":config["data"]["stratify"],
             }
         )
-
+    # Model training: Random_forest step
     if "random_forest" in steps_to_execute:
 
         # Serialize decision tree configuration
@@ -97,6 +97,8 @@ def go(config: DictConfig):
                 "stratify":config["data"]["stratify"]
             }
         )
+
+    # Evaluating step
     if "evaluate" in steps_to_execute:
 
         ## YOUR CODE HERE: call the evaluate step
