@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tajmohammad/Documents/02_Machine%20Learning%20Courses/05_Machine%20Learning%20DevOps%20Engineer%20%7C%20Nanodegree%20Program/02_Building%20a%20Reproducible%20Model%20Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification/starter/mlruns/0/45b91521569242b2b7f757959491e115/artifacts
+end_time: 1679957170069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45b91521569242b2b7f757959491e115
+run_name: aged-penguin-563
+run_uuid: 45b91521569242b2b7f757959491e115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679957136601
+status: 3
+tags: []
+user_id: tajmohammad

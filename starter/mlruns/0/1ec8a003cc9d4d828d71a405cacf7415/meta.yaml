@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tajmohammad/Documents/02_Machine%20Learning%20Courses/05_Machine%20Learning%20DevOps%20Engineer%20%7C%20Nanodegree%20Program/02_Building%20a%20Reproducible%20Model%20Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification/starter/mlruns/0/1ec8a003cc9d4d828d71a405cacf7415/artifacts
+end_time: 1679955898787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ec8a003cc9d4d828d71a405cacf7415
+run_name: exultant-kite-64
+run_uuid: 1ec8a003cc9d4d828d71a405cacf7415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679955872733
+status: 3
+tags: []
+user_id: tajmohammad

@@ -1,0 +1,55 @@
+{
+    "os": "macOS-13.2.1-x86_64-i386-64bit",
+    "python": "3.10.10",
+    "heartbeatAt": "2023-03-27T22:25:56.752414",
+    "startedAt": "2023-03-27T22:25:55.891517",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "data_train.csv:latest",
+        "--model_config",
+        "/Users/tajmohammad/Documents/02_Machine Learning Courses/05_Machine Learning DevOps Engineer | Nanodegree Program/02_Building a Reproducible Model Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification/starter/outputs/2023-03-28/00-24-11/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/Users/tajmohammad/Documents/02_Machine Learning Courses/05_Machine Learning DevOps Engineer | Nanodegree Program/02_Building a Reproducible Model Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification/starter/random_forest/run.py",
+    "codePath": "starter/random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/ghulamzada/genre_classification.git",
+        "commit": "84db25cc3ae0e0af4a29a1a56ee9d867bcfe1547"
+    },
+    "email": "tajmohammad20@gmail.com",
+    "root": "/Users/tajmohammad/Documents/02_Machine Learning Courses/05_Machine Learning DevOps Engineer | Nanodegree Program/02_Building a Reproducible Model Workflow/01_Building_A_Reproducible_Model_Workflow/genre_classification",
+    "host": "Tajs-Macbook-Pro.fritz.box",
+    "username": "tajmohammad",
+    "executable": "/Users/tajmohammad/opt/anaconda3/envs/mlflow-c3167ac8ffa4541cdc07abe3b39672a3794740a0/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 6,
+    "cpu_freq": {
+        "current": 2600,
+        "min": 2600,
+        "max": 2600
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2600,
+            "min": 2600,
+            "max": 2600
+        }
+    ],
+    "disk": {
+        "total": 465.62699127197266,
+        "used": 8.327884674072266
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
